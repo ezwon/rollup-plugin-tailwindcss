@@ -28,16 +28,16 @@
     "prettier": "^1.19.1",
     "rollup": "^1.31.0",
     "rollup-plugin-postcss": "^2.0.6",
-    "tailwindcss": "^1.2.0",
+    "tailwindcss": "^3.2.4",
     "tap-spec": "^5.0.0",
     "tape": "^4.13.0"
   },
   "peerDependencies": {
     "rollup": ">=1.19.0",
-    "tailwindcss": "^1.0.0"
+    "tailwindcss": "^3.2.4"
   },
   "dependencies": {
-    "postcss": "^7.0.26",
+    "postcss": "^8.4.21",
     "postcss-load-config": "^2.1.0",
     "purgecss": "^2.0.6",
     "rollup-pluginutils": "^2.8.2"
